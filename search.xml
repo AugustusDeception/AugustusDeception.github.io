@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>系统测试文章</title>
+      <link href="/%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试内容"><a href="#测试内容" class="headerlink" title="测试内容"></a>测试内容</h2><p>这是一篇测试文章，用于验证系统修复是否成功。</p><h3 id="代码测试"><a href="#代码测试" class="headerlink" title="代码测试"></a>代码测试</h3><pre><code class="language-cpp">#include &lt;iostream&gt;using namespace std;int main() {    cout &lt;&lt; &quot;Hello, World!&quot; &lt;&lt; endl;    return 0;}</code></pre>]]></content>
+      
+      
+      <categories>
+          
+          <category> 题解 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 测试 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/hello-world/"/>
       <url>/hello-world/</url>
